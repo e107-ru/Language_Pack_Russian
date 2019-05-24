@@ -16,9 +16,5 @@ define("LAN_THEMEPREF_07", "слева");
 define("LAN_THEMEPREF_08", "справа");
 define("LAN_THEMEPREF_09", "сверху");
 define("LAN_THEMEPREF_10", "снизу");
-<<<<<<< HEAD
-?>
-=======
 
 ?>
->>>>>>> 3c6889b0dd6fc4b575db892e88ff4c7c8fd29079
